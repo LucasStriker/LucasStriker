@@ -1,4 +1,6 @@
-- 👋 Lucas, 15
-- 🌱 Beta Tester FiveM
-- 💞️ CEO StrikerStore
-- 📫 Sou desenvolvedor de aplicações para FiveM e GTA V.
+About me:
+
+🔭 I’m currently working on freelance projects
+🌱 FiveM and Beta Tester Developer
+
+ 
