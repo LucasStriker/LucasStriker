@@ -1,0 +1,4 @@
+- 👋 Meu nome é Lucas e tenho 15 anos
+- 🌱 Beta tester FiveM
+- 💞️ StrikerStore
+- 📫 Sou desenvolvedor de aplicações para FiveM e GTA V.
