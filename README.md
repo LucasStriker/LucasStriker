@@ -5,6 +5,8 @@
 🔭 Atualmente estou trabalhando em projetos freelance<br>
 🌱 Desenvolvedor e Beta Tester do FiveM
 
+<br><br>
+
 <p style="font-size:100px">English</p>
 <br>
 <p style="font-size:100px">About me:</p>
