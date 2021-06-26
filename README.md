@@ -1,6 +1,6 @@
 <p style="font-size:100px">Português - Sobre mim:</p>
 
-🔭 Atualmente estou trabalhando em projetos freelance<br>
+🔭 Atualmente estou trabalhando em projetos freelancer<br>
 🌱 Desenvolvedor e Beta Tester do FiveM
 
 <br>
