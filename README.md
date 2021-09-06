@@ -1,3 +1,5 @@
+#
+
 ### Português - Sobre mim
 
 * 🔭 Atualmente estou trabalhando em projetos freelancer;
@@ -7,8 +9,14 @@
 
 * 🔭 I’m currently working on freelance projects;
 * 🌱 [FiveM](https://fivem.net/) Developer and Beta Tester.
-
+#
 <br>
+<div>
+  <a href="discord.gg/cxWCtvdfMy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
+
+#
+
 <div>
   <a href="https://github.com/StrikerStore">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=strikerstore&hide=contribs,prs&theme=ayu-mirage&show_icons=true">
