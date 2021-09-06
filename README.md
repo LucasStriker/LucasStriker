@@ -1,11 +1,16 @@
-<p style="font-size:100px">Português - Sobre mim:</p>
+### Português - Sobre mim
 
-🔭 Atualmente estou trabalhando em projetos freelancer<br>
-🌱 Desenvolvedor e Beta Tester do FiveM
+* 🔭 Atualmente estou trabalhando em projetos freelancer;
+* 🌱 Desenvolvedor e Beta Tester do [FiveM](https://fivem.net/).
+
+### English - About me:</p>
+
+* 🔭 I’m currently working on freelance projects;
+* 🌱 [FiveM](https://fivem.net/) Developer and Beta Tester.
 
 <br>
-
-<p style="font-size:100px">English - About me:</p>
-
-🔭 I’m currently working on freelance projects<br>
-🌱 FiveM and Beta Tester Developer
+<div>
+  <a href="https://github.com/StrikerStore">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=strikerstore&hide=contribs,prs&theme=ayu-mirage&show_icons=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strikerstore&layout=compact&theme=ayu-mirage&langs_count=10">
+</div>
