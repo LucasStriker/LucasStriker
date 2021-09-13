@@ -12,8 +12,8 @@
 #
 
 <div>
-  <a href="discord.gg/cxWCtvdfMy">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="discord.gg/cxWCtvdfMy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 </div>
 
