@@ -20,7 +20,7 @@
 #
 
 <div>
-  <a href="https://github.com/StrikerStore">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=strikerstore&hide=contribs,prs&theme=ayu-mirage&show_icons=true">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strikerstore&layout=compact&theme=ayu-mirage&langs_count=10">
+  <a href="https://github.com/lucasstriker">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucasstriker&hide=contribs,prs&theme=ayu-mirage&show_icons=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstriker&layout=compact&theme=ayu-mirage&langs_count=10">
 </div>
