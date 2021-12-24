@@ -2,14 +2,8 @@
 
 ### Português - Sobre mim
 
-* 🔭 Atualmente estou trabalhando em projetos freelancer;
-* 🌱 Desenvolvedor e Beta Tester do [FiveM](https://fivem.net/).
-
-### English - About me:</p>
-
-* 🔭 I’m currently working on freelance projects;
-* 🌱 [FiveM](https://fivem.net/) Developer and Beta Tester.
-#
+* Atualmente estou trabalhando em projetos freelancer;
+* Desenvolvedor e Beta Tester do [FiveM](https://fivem.net/).
 
 <div>
   <a href="https://discord.gg/cxWCtvdfMy" target="_blank">
