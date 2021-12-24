@@ -1,6 +1,6 @@
 #
 
-### Português - Sobre mim
+### Sobre mim
 
 * Atualmente estou trabalhando em projetos freelancer;
 * Desenvolvedor e Beta Tester do [FiveM](https://fivem.net/).
